@@ -1,0 +1,12 @@
+,0
+0,Idaho
+1,Kansas
+2,Louisiana
+3,Maryland
+4,Missouri
+5,Montana
+6,Nevada
+7,Oklahoma
+8,Pennsylvania
+9,Utah
+10,Wisconsin
